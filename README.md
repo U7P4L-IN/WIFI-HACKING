@@ -28,7 +28,7 @@ ANONYMOUS U7P4L
 
  cd Cam-Virus
 
- python Cam.sh
+ bash Cam.sh
 ```
 
 
